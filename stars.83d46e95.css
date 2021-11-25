@@ -1,0 +1,2 @@
+.stars{display:flex}.stars__star{display:flex;padding:8px 10px;background-image:url(star-active.3d99ddfd.svg);background-repeat:no-repeat;background-position:50%}.stars--4>.stars__star:nth-child(n+5){background-image:url(star.040e0f1e.svg)}
+/*# sourceMappingURL=stars.83d46e95.css.map */
